@@ -9,3 +9,4 @@ To run this "smnist_X5_lite.tflite" must be in the same folder.
 streamlit, cv2, mediapipe, numpy,  tensorflow, os must be imported.
 
 In terminal run : streamlit run #absolute path of "xyz.py"#
+![view of project-Streamlit](https://github.com/user-attachments/assets/351cbafa-9658-4439-9dcf-0a515689901c)
